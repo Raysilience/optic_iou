@@ -1,0 +1,3 @@
+/mnt/c/Users/Rui/Desktop/iou/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Rui/Desktop/iou/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Rui/Desktop/iou/build/CMakeFiles/MyTracker.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Rui/Desktop/iou/iou_tracker.cpp
+algorithm
+-
+iostream
+-
+iou_tracker.h
+/mnt/c/Users/Rui/Desktop/iou/iou_tracker.h
+
+/mnt/c/Users/Rui/Desktop/iou/iou_tracker.h
+vector
+-
+set
+-
+string
+-
+
